@@ -1,0 +1,12 @@
+appId: com.rahulml2505.whatsappclone
+productName: WhatsApp clone
+copyright: Copyright © 2023 Rahul Mondal
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
